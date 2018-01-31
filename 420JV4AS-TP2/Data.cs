@@ -14,7 +14,7 @@
         {
             get
             {
-                return new Ore[] { Ore.Copper, Ore.Copper, Ore.Copper, Ore.Silver, Ore.Silver, Ore.Gold };
+                return new Ore[] { Ore.Silver, Ore.Copper, Ore.Gold, Ore.Copper, Ore.Silver, Ore.Copper };
             }
         }
 
